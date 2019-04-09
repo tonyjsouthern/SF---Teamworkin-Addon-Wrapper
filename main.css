@@ -1,0 +1,19 @@
+html {
+  width: 360px;
+  height: 295px;
+}
+
+body{
+  height: 100% !important;
+}
+
+.cont{
+  height: 100% !important;
+  width: 100% !important;
+}
+
+iframe{
+  width: 120% !important;
+  height: 100% !important;
+  border: 0px !important;
+}
